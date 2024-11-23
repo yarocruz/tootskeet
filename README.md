@@ -49,7 +49,7 @@ TootSkeet uses Node.js with Express for the backend and basic HTML, CSS, and Typ
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/tootskeet.git
+git clone https://github.com/yarocruz/tootskeet.git
 ```
 
 2. **Navigate to the Project Directory**
